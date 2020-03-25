@@ -1,0 +1,2 @@
+module StickPageHelper
+end
