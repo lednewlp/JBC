@@ -1,5 +1,5 @@
 class StickPageController < ApplicationController
   def index
-    @name = JBC
+    @name = "Juventude Batista Carioca"
   end
 end
